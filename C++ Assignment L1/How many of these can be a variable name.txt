@@ -1,0 +1,9 @@
+ How many of these can be a variable name?
+
+==>01PWskills --> cant be a variable name
+==>_FLOAT --> can be a variable name 
+==>int --> cant be a variable name
+==>FLOAT --> can be a variable name
+==>You will succeed --> cant be a variable name
+
+
